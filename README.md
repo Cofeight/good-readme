@@ -1,6 +1,6 @@
 
 
-# [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT);
+# [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0);
 
 # Good README Generator
 
@@ -23,10 +23,12 @@
     The first step is to create a .gitignore file which includes node_modules/ and .DS_Store/. The .gitignore file should be generated before any npm dependencies are installed. The second step is to create a package.json file with the required dependencies. This should also be generated before installation of any dependencies. once you have create a .gitignore and a package.json file, you can initialize this project by going to your terminal line and typing "node index.js".
 
 ## Usage
-    (Need to add screenshot and gif)
+    
+![usage-gif](./Assets/cof-readme.gif)
+![usage-img](./Assets/cof-screenshot.png)
 
 ## License
-    MIT
+    GNU
 
 ## Tests
     No additional tests have been built for this project yet.

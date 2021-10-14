@@ -42,6 +42,8 @@ function generateMarkdown(data) {
 
 ## Usage
     ${data.usage}
+![usage-gif](./Assets/cof-readme.gif)
+![usage-img](./Assets/cof-screenshot.png)
 
 ## License
     ${data.license}
