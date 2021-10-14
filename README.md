@@ -6,7 +6,7 @@
 
 
 ## Description
-    I wanted to generate a basic README template that could be applied to any future projects. It was built so that I could both display my node.js abilities, while also saving me time in the future by having a pre-made template available. It eliminates the issue of having to repeatedly design the framework and basic structure of a README file by establishing all this through pre-made files. Node.js is fairly straightfoward, but making the pivot from user-side to command line required how to apply javascript in other scenarios and projects.
+    A description
 
 ## Table of Contents
 
@@ -20,19 +20,19 @@
 
 
 ## Installation
-    The first step is to create a .gitignore file which includes node_modules/ and .DS_Store/. The .gitignore file should be generated before any npm dependencies are installed. The second step is to create a package.json file with the required dependencies. This should also be generated before installation of any dependencies. once you have create a .gitignore and a package.json file, you can initialize this project by going to your terminal line and typing "node index.js".
+    instructions
 
 ## Usage
-    (Include screenshot and gif)
+    ![github com_Cofeight_good-readme](https://user-images.githubusercontent.com/90120907/137376113-a9153538-adad-420b-96b5-916ef53887cc.png)
 
 ## License
     MIT
 
 ## Tests
-    No additional tests have been built for this project yet.
+    no tests
     
 ## Contributions
-    Users should feel free to contribute to this project if desired.
+    no contributions
 
 
 ## Questions
@@ -40,7 +40,7 @@
 
 ## Contact Info
 
-## [chris.feight@gmail.com](mailto:chris.feight@gmail.com)
+## [c@y.com](mailto:c@y.com)
 
-## [cofeight](https://github.com/cofeight)
+## [cococo](https://github.com/cococo)
     
