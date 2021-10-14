@@ -4,7 +4,7 @@ const inquirer = require("inquirer");
 const fs = require("fs");
 //File Structure is a module that has numerous functionalities
 //in this example, it will create a markdown file
-const generateMarkdown = require("./generateMarkdown");
+const generateMarkdown = require("./Assets/generateMarkdown");
 //this function returns the string within generateMarkdown
 
 // TODO: Create an array of questions for user input

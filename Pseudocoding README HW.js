@@ -36,6 +36,10 @@
 //THEN I am taken to the corresponding section of the README
     //TODO: Create links for table of contents so user can click and be taken to that section of readme
 
+//PROJECT TITLE
+    //Good README Generator
+
+
 //DESCRIPTION
     //I wanted to generate a basic README template that could be applied to any future projects. It was built so that I could both display my node.js abilities, while also saving me time in the future by having a pre-made template available. It eliminates the issue of having to repeatedly design the framework and basic structure of a README file by establishing all this through pre-made files. Node.js is fairly straightfoward, but making the pivot from user-side to command line required how to apply javascript in other scenarios and projects.
 
